@@ -1,0 +1,3 @@
+-cp src
+--main HexViewer
+-lib console.hx:0.2.12
